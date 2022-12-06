@@ -3,5 +3,111 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "0piyf7lKdFtbJgS3g9ixx",
+      "createdAt": 1670318497563,
+      "name": "New Dog",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "ktWQXfRsMcMFE6t7G7wQS",
+      "createdAt": 1670320051663,
+      "name": "Chelsey",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "TE4XgQybO4meeurxnPLEK",
+      "createdAt": 1670322561361,
+      "name": "Batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "lrlAaDp6Zum-3xgXeWrHt",
+      "createdAt": 1670325070568,
+      "name": "Katto",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "lYlKHwra9Msm_Bs6VZ1O2",
+      "createdAt": 1670325105901,
+      "name": "Scooby",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "MmFJx3i2nQ01k8ioiLN1F",
+      "createdAt": 1670325320081,
+      "name": "New Dog",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "xrwWahFUurN5dJeqtmMEo",
+      "createdAt": 1670325374624,
+      "name": "Tom",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "OB4UfyDxzbVvhJcQW9EL3",
+      "createdAt": 1670327835682,
+      "name": "Jerry",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "y_8_iPgXgvQfisoYyZOSx",
+      "createdAt": 1670327889820,
+      "name": "Kitty",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "5OqFk7z__GTwPLesHlah2",
+      "createdAt": 1670327913016,
+      "name": "Doggy",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "3zVysMT98qs06bCahPoeY",
+      "createdAt": 1670327985526,
+      "name": "Superman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "58-7jBVLXqD1-Ua7sn7Nk",
+      "createdAt": 1670331332034,
+      "name": "New pet",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "K1K3WUDZrmSD4MZIrCh8l",
+      "createdAt": 1670331389959,
+      "name": "New Pet 2",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "UdpzfRWBK7D4kA9T_cnwj",
+      "createdAt": 1670331413396,
+      "name": "New Pet 3",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "qDzwWPCodUTnsCtvWMLYT",
+      "createdAt": 1670331445713,
+      "name": "New Pet 4",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
